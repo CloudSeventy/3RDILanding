@@ -2,7 +2,7 @@
 title: Roy Sirengo
 date: 2018-12-20T03:44:55+00:00
 image: "/uploads/roysirengo.jpg"
-jobtitle: UI Designer
+jobtitle: Founder
 weight: "4"
 
 ---
